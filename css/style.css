@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
+@import url('https://cdnjs.cloudflare.com/-reset/2.0/reset.minajax/libs/meyer.css');
+@import url('main.css');
 
 :root{
 	--white: #ffffff;
@@ -12,4 +13,7 @@ body{
 
 	background: var(--bg-blue);
 	color: var(--white);
+
+	width: 100%;
+	height: 100vh;
 }
