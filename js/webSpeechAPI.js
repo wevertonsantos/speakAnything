@@ -1,4 +1,4 @@
-elementNumber = document.querySelector('.main_number')
+elementView = document.querySelector('.main_view')
 
 window.SpeechRecognition = window.SpeechRecognition || webkitSpeechRecognition
 
@@ -14,5 +14,5 @@ function onSpeak(e){
 }
 
 function viewOnWebSite(numberRecognition){
-	elementNumber.innerHTML = numberRecognition
+	elementView.innerHTML = numberRecognition
 }
