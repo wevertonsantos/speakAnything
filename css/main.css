@@ -25,3 +25,13 @@ img{
 
 	color: var(--black);
 }
+
+.btn-reload{
+	font-size: 1.5em;
+	border-radius: 90px;
+	border: none;
+	background: rgba(255, 255, 255, 0.6);
+	padding: 1em;
+	font-family: 'Bebas Neue';
+	cursor: pointer;
+}
