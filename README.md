@@ -10,7 +10,7 @@
   <li>Javascript</li>
 </ul>
 
-<p> Algumas funcionalidade importantes para o desenvolvimento </p>
+<p> Algumas funcionalidade importantes para o desenvolvimento: </p>
 
 <ul>
   <li>SetTimeOut(function, seconds) = função callback para ser chamada depois de alguns segundos</li>
