@@ -1,6 +1,6 @@
 <h1> Consumação de Web Speech Recognition API </h1>
 
-<h2>ul><li>Falando com microfone habilitado e mostrando na tela</li></ul></h2>
+<h2><ul><li>Falando com microfone habilitado e mostrando na tela</li></ul></h2>
 
 <p> Techs: </p>
 
