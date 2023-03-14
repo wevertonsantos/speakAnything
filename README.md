@@ -22,5 +22,5 @@
   <li>arrow function = () => {}</li>
 </ul>
 
-<h2><ul><li>Site para demonstração do projeto</ul></li>
+<h2><ul><li>Site para demonstração do projeto</li></ul>
 https://wevertonsantos.github.io/speakAnything/
